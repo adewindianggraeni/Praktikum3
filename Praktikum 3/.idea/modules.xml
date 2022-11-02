@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/Tugas Pertemuan 6.iml" filepath="$PROJECT_DIR$/Tugas Pertemuan 6.iml" />
-=======
       <module fileurl="file://$PROJECT_DIR$/Praktikum 3.iml" filepath="$PROJECT_DIR$/Praktikum 3.iml" />
->>>>>>> 41432a105beb24addece8d5c366c2b5d9a1f1ce5
     </modules>
   </component>
 </project>
